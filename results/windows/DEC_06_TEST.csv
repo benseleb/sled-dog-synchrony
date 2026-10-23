@@ -1,0 +1,3 @@
+start_epoch,end_epoch,duration_s,n_dogs,dogs,frac_moving,max_speed_mps
+1670351167.0,1670354738.0,3571.0,4,Freedom|Harper|Mikey|Sassy,0.813,204716.03
+1670356449.0,1670360435.0,3986.0,2,Alice|Sitka,1.0,233.81

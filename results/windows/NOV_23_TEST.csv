@@ -1,0 +1,12 @@
+start_epoch,end_epoch,duration_s,n_dogs,dogs,frac_moving,max_speed_mps
+1669244731.0,1669245886.0,1155.0,8,Arrow|Ceaser|Charger|Sassy|Sky|Sophie|Tony|Trillium,0.724,6.82
+1669244299.0,1669244727.0,428.0,8,Arrow|Ceaser|Charger|Sassy|Sky|Sophie|Tony|Trillium,1.0,6.71
+1669244229.0,1669244295.0,66.0,8,Arrow|Ceaser|Charger|Sassy|Sky|Sophie|Tony|Trillium,1.0,6.69
+1669244192.0,1669244225.0,33.0,8,Arrow|Ceaser|Charger|Sassy|Sky|Sophie|Tony|Trillium,1.0,6.47
+1669244144.0,1669244168.0,24.0,8,Arrow|Ceaser|Charger|Sassy|Sky|Sophie|Tony|Trillium,1.0,6.07
+1669244125.0,1669244140.0,15.0,8,Arrow|Ceaser|Charger|Sassy|Sky|Sophie|Tony|Trillium,1.0,6.02
+1669244099.0,1669244114.0,15.0,7,Arrow|Ceaser|Charger|Sky|Sophie|Tony|Trillium,1.0,6.38
+1669244087.0,1669244099.0,12.0,8,Arrow|Ceaser|Charger|Sassy|Sky|Sophie|Tony|Trillium,0.917,6.06
+1669244177.0,1669244184.0,7.0,8,Arrow|Ceaser|Charger|Sassy|Sky|Sophie|Tony|Trillium,1.0,6.16
+1669244184.0,1669244192.0,8.0,7,Arrow|Ceaser|Charger|Sky|Sophie|Tony|Trillium,1.0,6.26
+1669244118.0,1669244125.0,7.0,7,Arrow|Ceaser|Charger|Sky|Sophie|Tony|Trillium,1.0,6.22

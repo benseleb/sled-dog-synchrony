@@ -1,0 +1,2 @@
+start_epoch,end_epoch,duration_s,n_dogs,dogs,frac_moving,max_speed_mps
+1668811522.0,1668814308.0,2786.0,3,Captain|Mikey|Mirage,0.793,95513.2

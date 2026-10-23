@@ -1,0 +1,8 @@
+start_epoch,end_epoch,duration_s,n_dogs,dogs,frac_moving,max_speed_mps
+1670256693.0,1670257243.0,550.0,4,Blaise|Ceaser|Chuck|Sky,0.796,7.04
+1670257784.0,1670258105.0,321.0,3,Blaise|Chuck|Sky,0.14,6.6
+1670257243.0,1670257528.0,285.0,3,Blaise|Chuck|Sky,0.909,6.96
+1670257690.0,1670257775.0,85.0,3,Blaise|Chuck|Sky,1.0,7.02
+1670257625.0,1670257686.0,61.0,3,Blaise|Chuck|Sky,0.328,6.64
+1670257563.0,1670257621.0,58.0,3,Blaise|Chuck|Sky,1.0,7.03
+1670257538.0,1670257559.0,21.0,3,Blaise|Chuck|Sky,1.0,7.08

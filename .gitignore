@@ -1,0 +1,8 @@
+# Raw data lives outside the repo (see README "Data"); these are symlinks or local copies
+data/raw
+data/dec11_formatted
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/

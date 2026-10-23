@@ -1,0 +1,16 @@
+start_epoch,end_epoch,duration_s,n_dogs,dogs,frac_moving,max_speed_mps
+1669746133.0,1669746512.0,379.0,8,Arrow|Baby|Blaise|Cassidy|Siren|Sky|Sophie|Tony,0.398,6.91
+1669745798.0,1669746129.0,331.0,8,Arrow|Baby|Blaise|Cassidy|Siren|Sky|Sophie|Tony,0.423,6.7
+1669745343.0,1669745637.0,294.0,8,Arrow|Baby|Blaise|Cassidy|Siren|Sky|Sophie|Tony,1.0,6.97
+1669745696.0,1669745790.0,94.0,8,Arrow|Baby|Blaise|Cassidy|Siren|Sky|Sophie|Tony,0.936,6.98
+1669745162.0,1669745244.0,82.0,8,Arrow|Baby|Blaise|Cassidy|Siren|Sky|Sophie|Tony,0.793,6.41
+1669745248.0,1669745313.0,65.0,8,Arrow|Baby|Blaise|Cassidy|Siren|Sky|Sophie|Tony,0.8,6.35
+1669744976.0,1669745028.0,52.0,8,Arrow|Baby|Blaise|Cassidy|Siren|Sky|Sophie|Tony,0.962,6.12
+1669745032.0,1669745078.0,46.0,8,Arrow|Baby|Blaise|Cassidy|Siren|Sky|Sophie|Tony,0.283,6.5
+1669745317.0,1669745339.0,22.0,8,Arrow|Baby|Blaise|Cassidy|Siren|Sky|Sophie|Tony,1.0,6.33
+1669745671.0,1669745687.0,16.0,7,Arrow|Blaise|Cassidy|Siren|Sky|Sophie|Tony,1.0,7.0
+1669745660.0,1669745671.0,11.0,8,Arrow|Baby|Blaise|Cassidy|Siren|Sky|Sophie|Tony,1.0,5.9
+1669745652.0,1669745660.0,8.0,7,Baby|Blaise|Cassidy|Siren|Sky|Sophie|Tony,1.0,5.93
+1669745790.0,1669745798.0,8.0,7,Baby|Blaise|Cassidy|Siren|Sky|Sophie|Tony,0.625,6.6
+1669745647.0,1669745652.0,5.0,8,Arrow|Baby|Blaise|Cassidy|Siren|Sky|Sophie|Tony,1.0,5.83
+1669745691.0,1669745696.0,5.0,7,Arrow|Blaise|Cassidy|Siren|Sky|Sophie|Tony,1.0,6.46
